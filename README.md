@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @junaidgreat
 - 👀 I’m interested in ...coding,trading,marketing
 - 🌱 I’m currently learning ...javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...never
 - 📫 How to reach me ...email
 
 <!---
